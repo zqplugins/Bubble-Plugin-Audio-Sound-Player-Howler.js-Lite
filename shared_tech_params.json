@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAa": {
+            "name": "sound",
+            "url": "//meta-q.cdn.bubble.io/f1702044538952x844044081596244600/Billie%20Eilish%20%E2%80%93%20bad%20guy.mp3"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "2",
+        "use_jquery": true
+    }
+}
